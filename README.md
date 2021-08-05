@@ -1,6 +1,6 @@
 <div align="right">
 
-[![Visitors](https://komarev.com/ghpvc/?username=josimar16&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/leandropn96)
+[![Visitors](https://komarev.com/ghpvc/?username=leandropn96&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/leandropn96)
 
 </div>
 
